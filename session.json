@@ -4,6 +4,11 @@
       "private": {
         "type": "Buffer",
         "data": "mJa/J2hdz33MLFlsvSgIyiyiNrRs5/20C5ESU0bSvHg="
+      },  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "mJa/J2hdz33MLFlsvSgIyiyiNrRs5/20C5ESU0bSvHg="
       },
       "public": {
         "type": "Buffer",
@@ -42,7 +47,54 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": {
+    "account": 
+      "details": "CKSqvYgFEJSRoZUGGAE=",
+      "accountSignatureKey": "8JR+OsO2q+GTxEDDsKm2L6NLe/jDffiqWg+eqMv5LEY=",
+      "accountSignature": "3Z3rGkJLB5xRyxyAmuGY8Qn//k3ufKFpO4B2Z0tB6HgZNCFtR0V+iY8vUdrLeubFnDk7xT/n9+hRL4+80TwIAg==",
+      "deviceSignature": "kKbBuGMq1SWdwmCXjrseiULT4qqVkYqOr2FjEBL5yJNY3Yacuv9ZshqxJhZijs46NfNsh4K6Eq8Q+FHhrxYNiA=="
+    },
+    "me": {
+      "id": "94720603183:11@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "😈😈😈😈😈"
+      "public": {
+        "type": "Buffer",
+        "data": "rGIdbXUiPmSWCRt9/r1uOo7MAt139g2xNzw574Xl7kE="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "sGpWnzjl4+H5zkOF711hYEnpFfz5tWWXrH6O7OeZ5Ug="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "rglOPtFL6WOpv7ouOlme7kAwd1FAozMVD8NY/3NoRDM="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "wBRTViECE/oNopnjbq+dMIgHTRjHMDY+fzQeN12guWE="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "Da3Jnrf8HCl0p9Ailp9e5sJ1/Mya1O6QkUZMWDGmcFk="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "0fDCuKwqa2J6G9S4BXwex4aLc+9vTkBDQv+AJVD9MpOjWaU40kl0d9LBGhpmXmpI2T0CLlKHjcdR+eH6sNsfjg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 210,
+    "advSecretKey": "e+2cWLiaSVI9Sgl/Pn08/6ODwoZQ8i2btHQrMcEOr14=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": 
       "details": "CKSqvYgFEJSRoZUGGAE=",
       "accountSignatureKey": "8JR+OsO2q+GTxEDDsKm2L6NLe/jDffiqWg+eqMv5LEY=",
       "accountSignature": "3Z3rGkJLB5xRyxyAmuGY8Qn//k3ufKFpO4B2Z0tB6HgZNCFtR0V+iY8vUdrLeubFnDk7xT/n9+hRL4+80TwIAg==",
